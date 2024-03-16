@@ -117,4 +117,3 @@ def handlePackage(line):
 
 main()
 
-#todo: create list of classes and rename in calass to dtos 
